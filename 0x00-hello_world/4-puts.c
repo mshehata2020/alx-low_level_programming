@@ -1,3 +1,9 @@
+/**
+ * main - Function starts
+ *
+ * Return: Function closes
+ */
+
 #include <stdio.h>
 int main(void)
 {
