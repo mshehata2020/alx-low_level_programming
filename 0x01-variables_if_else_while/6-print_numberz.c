@@ -1,4 +1,6 @@
 #include<stdio.h>
+/*hhhhd*/
+
 int main(void)
 {
   int a;
