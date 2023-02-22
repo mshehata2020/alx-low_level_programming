@@ -1,8 +1,11 @@
 #include "main.h"
+
 /**
- * largest_number - returns the largest 3
- * tree number
- * Return: largest number
+ * largestnumbers
+ * @a: first
+ * @b: second
+ * @c: third
+ * Return: largest
  */
 
 int largest_number(int a, int b, int c)
