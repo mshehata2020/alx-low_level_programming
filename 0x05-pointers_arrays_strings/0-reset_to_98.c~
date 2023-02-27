@@ -1,0 +1,18 @@
+#include "main.h"
+/*declare pointer                                                                                                                             
+ *make it vary                                                                                                                                
+ *store to another                                                                                                                            
+ */
+int main()
+{
+  int *p;
+  int n;
+  p=&n;
+  p=98;
+
+
+
+
+
+
+}
