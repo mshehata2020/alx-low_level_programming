@@ -2,8 +2,8 @@
 
 /**
  * *_strcat - concatenates 
- * : the source string to append to
- *  the destiation string to be concatenated upon
+ * @src: the source string to append to 
+ * @dest: the destiation string to be concatenated upon
  * Return:pointer to the resulting string
  */
 
